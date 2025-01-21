@@ -1,0 +1,3 @@
+# MATLAB Bug: Incorrect Negative Input Handling in myFunction
+
+This repository demonstrates a common bug in MATLAB code: incorrect handling of negative inputs. The function `myFunction` is intended to process both positive and negative numbers, but it contains a logical error that leads to an incorrect result when given a negative input. The bug is explained in detail in the `bug.m` file, along with a corrected version in `bugSolution.m`. 
